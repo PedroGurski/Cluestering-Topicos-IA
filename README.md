@@ -6,12 +6,6 @@ Análise comparativa de algoritmos de clustering em diferentes estruturas de dad
 
 Este trabalho é uma análise aprofundada de algoritmos de clustering, com foco em compreender como diferentes métodos se comportam diante de estruturas de dados variadas. O projeto demonstra que a escolha do algoritmo deve estar alinhada à geometria e distribuição dos dados.
 
-**Autores:**
-- Arthur Barreto Godoi (arthur.godoi@ufpr.br)
-- Gustavo Gabriel Ripka (gustavo.ripka@ufpr.br)
-- Pedro Henrique Gurski De Oliveira (pedrogurski@ufpr.br)
-- Ulisses Curvello Ferreira (ulissesferreira@ufpr.br)
-
 ## Objetivos
 
 - Comparar o desempenho de três algoritmos de clustering
