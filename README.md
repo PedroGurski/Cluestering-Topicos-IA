@@ -1,6 +1,6 @@
 # Clustering - Tópicos em IA
 
-Análise comparativa de algoritmos de clustering em diferentes estruturas de dados. Este projeto implementa e avalia **K-Means**, **DBSCAN** e **Clusterização Hierárquica** utilizando datasets desafiadores da scikit-learn.
+Análise comparativa de algoritmos de clustering em diferentes estruturas de dados. Este projeto implementa e avalia **K-Means**, **DBSCAN** e **Clusterização Hierárquica** utilizando datasets da scikit-learn.
 
 ## Sobre o Projeto
 
